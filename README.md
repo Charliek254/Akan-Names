@@ -12,6 +12,7 @@
 
 ## BDD
   As a user, I would like to;
+  
     - See a  small description of what the application does on the landing page. 
     - Enter my birthday through a form
     - Choose what gender I am.
