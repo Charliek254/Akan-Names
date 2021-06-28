@@ -4,8 +4,7 @@ body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background: url(/image/bg.jpg);
   background-size: cover;
-  background: rgb(63,94,251);
-  background: linear-gradient(174deg, rgba(63,94,251,1) 0%, rgba(176,159,221,1) 21%, rgba(65,62,65,1) 37%, rgba(21,114,121,1) 49%, rgba(0,64,112,1) 62%, rgba(129,106,113,1) 73%, rgba(188,174,89,1) 81%, rgba(194,165,91,1) 88%, rgba(252,70,107,1) 90%);
+  background: url(/image/bg.jpg);
 }
 .heading{
   text-align: center;
